@@ -88,6 +88,35 @@
 1093,CO,United States,Minor,Mcdonnel Douglas,Dc-9-82,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,106.0,Instrumental Meteorological Conditions,106.0,0.0,0.0,100.0,0.0,Commercial,21,11,2004,0.38235294117647056,34.0
 1108,CO,United States,Minor,Mcdonnel Douglas,Dc-9-82,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,114.0,Visual Meteorological Conditions,114.0,0.0,0.0,100.0,0.0,Commercial,28,5,2005,0.38235294117647056,34.0
 1143,CO,United States,Minor,Mcdonnel Douglas,Dc-9-82,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,138.0,Visual Meteorological Conditions,138.0,0.0,0.0,100.0,0.0,Commercial,21,3,2006,0.38235294117647056,34.0
+8,OH,United States,Minor,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,108.0,Instrumental Meteorological Conditions,108.0,0.0,0.0,100.0,0.0,Commercial,9,4,1982,0.034482758620689655,29.0
+9,TX,United States,Substantial,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,68.0,Visual Meteorological Conditions,68.0,0.0,0.0,100.0,0.0,Commercial,18,4,1982,0.034482758620689655,29.0
+53,NC,United States,Minor,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,150.0,Visual Meteorological Conditions,150.0,0.0,0.0,100.0,0.0,Commercial,27,5,1983,0.034482758620689655,29.0
+55,OR,United States,Unknown,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,133.0,Visual Meteorological Conditions,133.0,0.0,0.0,100.0,0.0,Commercial,3,6,1983,0.034482758620689655,29.0
+57,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,1.0,6.0,145.0,Visual Meteorological Conditions,152.0,7.0,4.605263157894736,95.39473684210527,0.0,Commercial,10,6,1983,0.034482758620689655,29.0
+64,CA,United States,Minor,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,1.0,133.0,Visual Meteorological Conditions,134.0,1.0,0.7462686567164178,99.25373134328358,0.0,Commercial,2,7,1983,0.034482758620689655,29.0
+72,IL,United States,Minor,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,116.0,Visual Meteorological Conditions,116.0,0.0,0.0,100.0,0.0,Commercial,7,9,1983,0.034482758620689655,29.0
+82,IL,United States,Minor,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,100.0,Visual Meteorological Conditions,100.0,0.0,0.0,100.0,0.0,Commercial,8,11,1983,0.034482758620689655,29.0
+119,IL,United States,Minor,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,91.0,Visual Meteorological Conditions,91.0,0.0,0.0,100.0,0.0,Commercial,16,7,1984,0.034482758620689655,29.0
+155,DC,United States,Minor,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,129.0,Visual Meteorological Conditions,129.0,0.0,0.0,100.0,0.0,Commercial,16,4,1985,0.034482758620689655,29.0
+180,CA,United States,Minor,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,90.0,Instrumental Meteorological Conditions,90.0,0.0,0.0,100.0,0.0,Commercial,24,10,1985,0.034482758620689655,29.0
+227,TX,United States,Unknown,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,1.0,0.0,94.0,Visual Meteorological Conditions,95.0,1.0,1.0526315789473684,98.94736842105264,0.0,Commercial,9,8,1986,0.034482758620689655,29.0
+260,SC,United States,Unknown,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,1.0,2.0,57.0,Visual Meteorological Conditions,60.0,3.0,5.0,95.0,0.0,Commercial,19,3,1987,0.034482758620689655,29.0
+284,IL,United States,Unknown,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,408.0,Visual Meteorological Conditions,408.0,0.0,0.0,100.0,0.0,Commercial,2,8,1987,0.034482758620689655,29.0
+298,PA,United States,Unknown,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,1.0,0.0,70.0,Visual Meteorological Conditions,71.0,1.0,1.4084507042253522,98.59154929577466,0.0,Commercial,17,9,1987,0.034482758620689655,29.0
+324,Unknown/Foreign Location,Foreign Country,Substantial,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,200.0,Visual Meteorological Conditions,200.0,0.0,0.0,100.0,0.0,Commercial,26,12,1987,0.034482758620689655,29.0
+362,WA,United States,Minor,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,7.0,81.0,Visual Meteorological Conditions,88.0,7.0,7.954545454545454,92.04545454545456,0.0,Commercial,12,6,1988,0.034482758620689655,29.0
+378,MN,United States,Substantial,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,71.0,Visual Meteorological Conditions,71.0,0.0,0.0,100.0,0.0,Commercial,9,9,1988,0.034482758620689655,29.0
+381,TX,United States,Minor,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,4.0,84.0,Visual Meteorological Conditions,88.0,4.0,4.545454545454546,95.45454545454544,0.0,Commercial,21,9,1988,0.034482758620689655,29.0
+383,Unknown/Foreign Location,Foreign Country,Minor,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,131.0,Visual Meteorological Conditions,131.0,0.0,0.0,100.0,0.0,Commercial,17,10,1988,0.034482758620689655,29.0
+408,TX,United States,Unknown,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,261.0,Unknown,261.0,0.0,0.0,100.0,0.0,Commercial,21,3,1989,0.034482758620689655,29.0
+492,IN,United States,Unknown,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,1.0,0.0,92.0,Visual Meteorological Conditions,93.0,1.0,1.0752688172043012,98.9247311827957,0.0,Commercial,25,1,1991,0.034482758620689655,29.0
+544,WI,United States,Unknown,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,1.0,0.0,136.0,Instrumental Meteorological Conditions,137.0,1.0,0.7299270072992701,99.2700729927007,0.0,Commercial,2,7,1992,0.034482758620689655,29.0
+568,NJ,United States,Unknown,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,67.0,Visual Meteorological Conditions,67.0,0.0,0.0,100.0,0.0,Commercial,11,2,1993,0.034482758620689655,29.0
+650,GA,United States,Unknown,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,1.0,5.0,132.0,Visual Meteorological Conditions,138.0,6.0,4.3478260869565215,95.65217391304348,0.0,Commercial,16,3,1995,0.034482758620689655,29.0
+855,NY,United States,Unknown,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,1.0,0.0,160.0,Visual Meteorological Conditions,161.0,1.0,0.6211180124223602,99.37888198757764,0.0,Commercial,13,1,1999,0.034482758620689655,29.0
+879,DC,United States,Minor,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,0.0,0.0,171.0,Visual Meteorological Conditions,171.0,0.0,0.0,100.0,0.0,Commercial,23,8,1999,0.034482758620689655,29.0
+920,SC,United States,Minor,Boeing,727-200,3.0,Turbo Fan,Unknown,0.0,2.0,14.0,53.0,Visual Meteorological Conditions,69.0,16.0,23.18840579710145,76.81159420289855,0.0,Commercial,28,7,2000,0.034482758620689655,29.0
+959,TN,United States,Unknown,Boeing,727-200,3.0,Turbo Jet,Unknown,0.0,1.0,0.0,127.0,Visual Meteorological Conditions,128.0,1.0,0.78125,99.21875,0.0,Commercial,23,3,2001,0.034482758620689655,29.0
 15,ID,United States,Minor,Mcdonnel Douglas,Dc-9-31,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,84.0,Visual Meteorological Conditions,84.0,0.0,0.0,100.0,0.0,Commercial,5,7,1982,0.2857142857142857,21.0
 54,AZ,United States,Unknown,Mcdonnel Douglas,Dc-9-31,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,86.0,Visual Meteorological Conditions,86.0,0.0,0.0,100.0,0.0,Commercial,28,5,1983,0.2857142857142857,21.0
 91,SD,United States,Substantial,Mcdonnel Douglas,Dc-9-31,2.0,Turbo Fan,Unknown,1.0,0.0,2.0,84.0,Instrumental Meteorological Conditions,87.0,3.0,3.4482758620689653,96.55172413793105,1.1494252873563218,Commercial,20,12,1983,0.2857142857142857,21.0
@@ -109,6 +138,22 @@
 947,IL,United States,Minor,Mcdonnel Douglas,Dc-9-31,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,249.0,Instrumental Meteorological Conditions,249.0,0.0,0.0,100.0,0.0,Commercial,13,12,2000,0.2857142857142857,21.0
 1012,MN,United States,Substantial,Mcdonnel Douglas,Dc-9-31,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,70.0,Visual Meteorological Conditions,70.0,0.0,0.0,100.0,0.0,Commercial,3,6,2002,0.2857142857142857,21.0
 1196,NY,United States,Substantial,Mcdonnel Douglas,Dc-9-31,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,99.0,Visual Meteorological Conditions,99.0,0.0,0.0,100.0,0.0,Commercial,18,5,2007,0.2857142857142857,21.0
+22,DC,United States,Unknown,Boeing,727,3.0,Turbo Fan,Unknown,0.0,1.0,1.0,128.0,Visual Meteorological Conditions,130.0,2.0,1.5384615384615383,98.46153846153848,0.0,Commercial,2,9,1982,0.0625,16.0
+107,KY,United States,Unknown,Boeing,727,3.0,Turbo Fan,Unknown,0.0,1.0,12.0,125.0,Visual Meteorological Conditions,138.0,13.0,9.420289855072463,90.57971014492752,0.0,Commercial,17,5,1984,0.0625,16.0
+164,MI,United States,Unknown,Boeing,727,3.0,Turbo Fan,Unknown,0.0,2.0,2.0,71.0,Visual Meteorological Conditions,75.0,4.0,5.333333333333334,94.66666666666669,0.0,Commercial,23,6,1985,0.0625,16.0
+202,FL,United States,Minor,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,140.0,Visual Meteorological Conditions,140.0,0.0,0.0,100.0,0.0,Commercial,16,3,1986,0.0625,16.0
+240,AK,United States,Unknown,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,201.0,Visual Meteorological Conditions,201.0,0.0,0.0,100.0,0.0,Commercial,10,11,1986,0.0625,16.0
+257,VT,United States,Substantial,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,104.0,Visual Meteorological Conditions,104.0,0.0,0.0,100.0,0.0,Commercial,10,3,1987,0.0625,16.0
+290,NY,United States,Unknown,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,528.0,Visual Meteorological Conditions,528.0,0.0,0.0,100.0,0.0,Commercial,9,8,1987,0.0625,16.0
+297,OK,United States,Substantial,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,62.0,Visual Meteorological Conditions,62.0,0.0,0.0,100.0,0.0,Commercial,15,9,1987,0.0625,16.0
+359,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,286.0,Visual Meteorological Conditions,286.0,0.0,0.0,100.0,0.0,Commercial,23,5,1988,0.0625,16.0
+364,MN,United States,Substantial,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,93.0,Visual Meteorological Conditions,93.0,0.0,0.0,100.0,0.0,Commercial,11,7,1988,0.0625,16.0
+387,TX,United States,Unknown,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,53.0,Visual Meteorological Conditions,53.0,0.0,0.0,100.0,0.0,Commercial,6,11,1988,0.0625,16.0
+447,FL,United States,Unknown,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,59.0,Visual Meteorological Conditions,59.0,0.0,0.0,100.0,0.0,Commercial,15,12,1989,0.0625,16.0
+456,GA,United States,Substantial,Boeing,727,3.0,Turbo Fan,Unknown,1.0,1.0,0.0,157.0,Visual Meteorological Conditions,159.0,2.0,1.257861635220126,98.74213836477988,0.628930817610063,Commercial,18,1,1990,0.0625,16.0
+866,VA,United States,Substantial,Boeing,727,3.0,Turbo Fan,Unknown,0.0,0.0,0.0,90.0,Visual Meteorological Conditions,90.0,0.0,0.0,100.0,0.0,Commercial,28,5,1999,0.0625,16.0
+1309,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,727,3.0,Unknown,Unknown,0.0,0.0,0.0,239.0,Unknown,239.0,0.0,0.0,100.0,0.0,Commercial,21,2,2010,0.0625,16.0
+1389,Unknown/Foreign Location,Foreign Country,Substantial,Boeing,727,3.0,Unknown,Unknown,77.0,0.0,0.0,35.0,Unknown,112.0,77.0,68.75,31.25,68.75,Commercial,8,7,2011,0.0625,16.0
 25,TX,United States,Unknown,Boeing,737-200,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,67.0,Visual Meteorological Conditions,68.0,1.0,1.4705882352941175,98.52941176470587,0.0,Commercial,2,11,1982,0.28,25.0
 42,CO,United States,Minor,Boeing,737-200,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,82.0,Visual Meteorological Conditions,82.0,0.0,0.0,100.0,0.0,Commercial,21,3,1983,0.28,25.0
 204,TN,United States,Unknown,Boeing,737-200,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,131.0,Visual Meteorological Conditions,131.0,0.0,0.0,100.0,0.0,Commercial,21,3,1986,0.28,25.0
@@ -134,6 +179,46 @@
 962,FL,United States,Unknown,Boeing,737-200,2.0,Turbo Jet,Unknown,0.0,1.0,1.0,76.0,Instrumental Meteorological Conditions,78.0,2.0,2.564102564102564,97.43589743589745,0.0,Commercial,17,4,2001,0.28,25.0
 1171,WA,United States,Unknown,Boeing,737-200,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,76.0,Visual Meteorological Conditions,76.0,0.0,0.0,100.0,0.0,Commercial,30,10,2006,0.28,25.0
 1206,Unknown/Foreign Location,Foreign Country,Substantial,Boeing,737-200,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,109.0,Unknown,109.0,0.0,0.0,100.0,0.0,Commercial,14,9,2007,0.28,25.0
+63,FL,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,77.0,Visual Meteorological Conditions,77.0,0.0,0.0,100.0,0.0,Commercial,25,6,1983,0.3125,16.0
+125,FL,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,96.0,Visual Meteorological Conditions,96.0,0.0,0.0,100.0,0.0,Commercial,25,8,1984,0.3125,16.0
+178,FL,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,122.0,Visual Meteorological Conditions,122.0,0.0,0.0,100.0,0.0,Commercial,19,10,1985,0.3125,16.0
+233,NC,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,99.0,Visual Meteorological Conditions,99.0,0.0,0.0,100.0,0.0,Commercial,25,9,1986,0.3125,16.0
+244,WI,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,114.0,Instrumental Meteorological Conditions,114.0,0.0,0.0,100.0,0.0,Commercial,1,12,1986,0.3125,16.0
+369,GA,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,84.0,Visual Meteorological Conditions,84.0,0.0,0.0,100.0,0.0,Commercial,5,8,1988,0.3125,16.0
+370,GA,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,199.0,Unknown,199.0,0.0,0.0,100.0,0.0,Commercial,5,8,1988,0.3125,16.0
+371,GA,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,199.0,Unknown,199.0,0.0,0.0,100.0,0.0,Commercial,5,8,1988,0.3125,16.0
+471,GA,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,111.0,Visual Meteorological Conditions,111.0,0.0,0.0,100.0,0.0,Commercial,21,6,1990,0.3125,16.0
+739,HI,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,76.0,Visual Meteorological Conditions,76.0,0.0,0.0,100.0,0.0,Commercial,8,8,1996,0.3125,16.0
+761,MO,United States,Unknown,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,1.0,1.0,110.0,Visual Meteorological Conditions,112.0,2.0,1.7857142857142856,98.21428571428572,0.0,Commercial,28,1,1997,0.3125,16.0
+820,HI,United States,Minor,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,144.0,Visual Meteorological Conditions,144.0,0.0,0.0,100.0,0.0,Commercial,9,2,1998,0.3125,16.0
+887,IL,United States,Unknown,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,105.0,Visual Meteorological Conditions,105.0,0.0,0.0,100.0,0.0,Commercial,14,10,1999,0.3125,16.0
+915,HI,United States,Substantial,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,137.0,Visual Meteorological Conditions,139.0,2.0,1.4388489208633095,98.56115107913669,0.0,Commercial,14,6,2000,0.3125,16.0
+972,MI,United States,Unknown,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Jet,Unknown,0.0,1.0,0.0,96.0,Visual Meteorological Conditions,97.0,1.0,1.0309278350515465,98.96907216494844,0.0,Commercial,25,7,2001,0.3125,16.0
+1102,MN,United States,Substantial,Mcdonnel Douglas,Dc-9-51,2.0,Turbo Fan,Unknown,0.0,1.0,7.0,137.0,Visual Meteorological Conditions,145.0,8.0,5.517241379310344,94.48275862068964,0.0,Commercial,10,5,2005,0.3125,16.0
+69,CO,United States,Unknown,Boeing,767,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,205.0,Visual Meteorological Conditions,205.0,0.0,0.0,100.0,0.0,Commercial,19,8,1983,0.3333333333333333,24.0
+79,CA,United States,Minor,Boeing,767,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,104.0,Visual Meteorological Conditions,104.0,0.0,0.0,100.0,0.0,Commercial,2,11,1983,0.3333333333333333,24.0
+374,SC,United States,Unknown,Boeing,767,2.0,Turbo Fan,Unknown,0.0,1.0,9.0,55.0,Visual Meteorological Conditions,65.0,10.0,15.384615384615385,84.61538461538461,0.0,Commercial,26,8,1988,0.3333333333333333,24.0
+1266,NY,United States,Substantial,Boeing,767,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,220.0,Visual Meteorological Conditions,220.0,0.0,0.0,100.0,0.0,Commercial,20,4,2009,0.3333333333333333,24.0
+1277,Unknown/Foreign Location,Foreign Country,Minor,Boeing,767,2.0,Unknown,Unknown,0.0,0.0,0.0,210.0,Unknown,210.0,0.0,0.0,100.0,0.0,Commercial,5,6,2009,0.3333333333333333,24.0
+1279,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,767,2.0,Unknown,Unknown,0.0,0.0,0.0,216.0,Unknown,216.0,0.0,0.0,100.0,0.0,Commercial,19,6,2009,0.3333333333333333,24.0
+1291,NJ,United States,Minor,Boeing,767,2.0,Unknown,Unknown,0.0,0.0,0.0,235.0,Visual Meteorological Conditions,235.0,0.0,0.0,100.0,0.0,Commercial,18,9,2009,0.3333333333333333,24.0
+1295,GA,United States,Unknown,Boeing,767,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,194.0,Visual Meteorological Conditions,194.0,0.0,0.0,100.0,0.0,Commercial,19,10,2009,0.3333333333333333,24.0
+1320,IA,United States,Unknown,Boeing,767,2.0,Turbo Fan,Unknown,0.0,5.0,1.0,172.0,Unknown,178.0,6.0,3.3707865168539324,96.62921348314607,0.0,Commercial,30,4,2010,0.3333333333333333,24.0
+1328,Unknown/Foreign Location,United States,Unknown,Boeing,767,2.0,Unknown,Unknown,0.0,0.0,1.0,201.0,Visual Meteorological Conditions,202.0,1.0,0.4950495049504951,99.5049504950495,0.0,Commercial,15,7,2010,0.3333333333333333,24.0
+1335,VA,United States,Unknown,Boeing,767,2.0,Unknown,Unknown,0.0,0.0,1.0,193.0,Visual Meteorological Conditions,194.0,1.0,0.5154639175257731,99.48453608247421,0.0,Commercial,17,8,2010,0.3333333333333333,24.0
+1347,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,767,2.0,Turbo Fan,Unknown,0.0,2.0,1.0,181.0,Visual Meteorological Conditions,184.0,3.0,1.6304347826086956,98.36956521739133,0.0,Commercial,3,12,2010,0.3333333333333333,24.0
+1355,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,767,2.0,Unknown,Unknown,0.0,8.0,7.0,88.0,Unknown,103.0,15.0,14.563106796116505,85.43689320388349,0.0,Commercial,14,1,2011,0.3333333333333333,24.0
+1417,NY,United States,Unknown,Boeing,767,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,210.0,Unknown,210.0,0.0,0.0,100.0,0.0,Commercial,8,2,2012,0.3333333333333333,24.0
+1421,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,767,2.0,Turbo Fan,Unknown,0.0,0.0,1.0,146.0,Unknown,147.0,1.0,0.6802721088435374,99.31972789115645,0.0,Commercial,26,2,2012,0.3333333333333333,24.0
+1543,Unknown/Foreign Location,Foreign Country,Substantial,Boeing,767,2.0,Unknown,Unknown,0.0,0.0,0.0,348.0,Unknown,348.0,0.0,0.0,100.0,0.0,Commercial,26,2,2016,0.3333333333333333,24.0
+1565,IL,United States,Substantial,Boeing,767,2.0,Turbo Fan,Unknown,0.0,20.0,1.0,149.0,Visual Meteorological Conditions,170.0,21.0,12.352941176470587,87.64705882352942,0.0,Commercial,28,10,2016,0.3333333333333333,24.0
+1624,NH,United States,Substantial,Boeing,767,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,250.0,Visual Meteorological Conditions,250.0,0.0,0.0,100.0,0.0,Commercial,27,7,2018,0.3333333333333333,24.0
+1635,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,767,2.0,Unknown,Unknown,0.0,2.0,1.0,92.0,Unknown,95.0,3.0,3.1578947368421053,96.84210526315788,0.0,Commercial,4,12,2018,0.3333333333333333,24.0
+1644,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,767,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,104.0,Unknown,104.0,0.0,0.0,100.0,0.0,Commercial,28,4,2019,0.3333333333333333,24.0
+1648,PR,United States,Unknown,Boeing,767,2.0,Unknown,Unknown,0.0,1.0,1.0,216.0,Unknown,218.0,2.0,0.9174311926605504,99.08256880733946,0.0,Commercial,22,7,2019,0.3333333333333333,24.0
+1652,Unknown/Foreign Location,Foreign Country,Minor,Boeing,767,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,158.0,Unknown,159.0,1.0,0.628930817610063,99.37106918238993,0.0,Commercial,15,8,2019,0.3333333333333333,24.0
+1666,Unknown/Foreign Location,Foreign Country,Substantial,Boeing,767,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,181.0,Unknown,181.0,0.0,0.0,100.0,0.0,Commercial,8,3,2020,0.3333333333333333,24.0
+1668,Unknown/Foreign Location,Foreign Country,Substantial,Boeing,767,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,66.0,Unknown,66.0,0.0,0.0,100.0,0.0,Commercial,28,8,2020,0.3333333333333333,24.0
 83,CO,United States,Unknown,Mcdonnel Douglas,Dc-9-32,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,53.0,Visual Meteorological Conditions,53.0,0.0,0.0,100.0,0.0,Commercial,9,11,1983,0.5217391304347826,23.0
 105,IL,United States,Unknown,Mcdonnel Douglas,Dc-9-32,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,84.0,Visual Meteorological Conditions,84.0,0.0,0.0,100.0,0.0,Commercial,4,5,1984,0.5217391304347826,23.0
 232,CA,United States,Destroyed,Mcdonnel Douglas,Dc-9-32,2.0,Turbo Fan,Unknown,82.0,0.0,8.0,0.0,Visual Meteorological Conditions,90.0,90.0,100.0,0.0,91.11111111111113,Commercial,31,8,1986,0.5217391304347826,23.0
@@ -278,6 +363,88 @@
 1694,OF,United States,Minor,Boeing,737,2.0,Unknown,Unknown,0.0,0.0,0.0,163.0,Unknown,163.0,0.0,0.0,100.0,0.0,Commercial,10,2,2022,0.547945205479452,73.0
 1695,OF,Foreign Country,Minor,Boeing,737,2.0,Unknown,Unknown,0.0,0.0,0.0,177.0,Unknown,177.0,0.0,0.0,100.0,0.0,Commercial,9,3,2022,0.547945205479452,73.0
 1706,OF,Foreign Country,Unknown,Boeing,737,2.0,Unknown,Unknown,0.0,1.0,0.0,105.0,Unknown,106.0,1.0,0.9433962264150944,99.05660377358492,0.0,Commercial,3,10,2022,0.547945205479452,73.0
+341,RI,United States,Unknown,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,99.0,Visual Meteorological Conditions,99.0,0.0,0.0,100.0,0.0,Commercial,22,3,1988,0.5,18.0
+382,Unknown/Foreign Location,Foreign Country,Substantial,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,128.0,Unknown,128.0,0.0,0.0,100.0,0.0,Commercial,29,9,1988,0.5,18.0
+676,MI,United States,Unknown,Boeing,757,2.0,Turbo Jet,Unknown,0.0,1.0,0.0,126.0,Visual Meteorological Conditions,127.0,1.0,0.7874015748031495,99.21259842519686,0.0,Commercial,4,8,1995,0.5,18.0
+861,KY,United States,Substantial,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,132.0,Visual Meteorological Conditions,132.0,0.0,0.0,100.0,0.0,Commercial,22,2,1999,0.5,18.0
+967,GA,United States,Minor,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,89.0,Visual Meteorological Conditions,89.0,0.0,0.0,100.0,0.0,Commercial,5,6,2001,0.5,18.0
+1236,NV,United States,Unknown,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,170.0,Visual Meteorological Conditions,170.0,0.0,0.0,100.0,0.0,Commercial,6,8,2008,0.5,18.0
+1271,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,757,2.0,Turbo Fan,Unknown,0.0,4.0,1.0,184.0,Instrumental Meteorological Conditions,189.0,5.0,2.6455026455026456,97.35449735449735,0.0,Commercial,16,5,2009,0.5,18.0
+1322,VA,United States,Minor,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,112.0,Unknown,112.0,0.0,0.0,100.0,0.0,Commercial,17,5,2010,0.5,18.0
+1381,NC,United States,Unknown,Boeing,757,2.0,Turbo Fan,Unknown,0.0,1.0,1.0,185.0,Visual Meteorological Conditions,187.0,2.0,1.06951871657754,98.93048128342244,0.0,Commercial,23,5,2011,0.5,18.0
+1488,CA,United States,Substantial,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,174.0,Visual Meteorological Conditions,174.0,0.0,0.0,100.0,0.0,Commercial,30,7,2014,0.5,18.0
+1581,NC,United States,Substantial,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,186.0,Visual Meteorological Conditions,186.0,0.0,0.0,100.0,0.0,Commercial,21,5,2017,0.5,18.0
+1592,NY,United States,Substantial,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,295.0,Visual Meteorological Conditions,295.0,0.0,0.0,100.0,0.0,Commercial,15,8,2017,0.5,18.0
+1625,PA,United States,Substantial,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,181.0,Visual Meteorological Conditions,181.0,0.0,0.0,100.0,0.0,Commercial,31,7,2018,0.5,18.0
+1628,NY,United States,Unknown,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,1.0,112.0,Unknown,113.0,1.0,0.8849557522123894,99.1150442477876,0.0,Commercial,6,9,2018,0.5,18.0
+1629,NJ,United States,Unknown,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,1.0,176.0,Unknown,177.0,1.0,0.5649717514124294,99.43502824858757,0.0,Commercial,24,9,2018,0.5,18.0
+1653,Unknown/Foreign Location,Foreign Country,Minor,Boeing,757,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,159.0,Unknown,159.0,0.0,0.0,100.0,0.0,Commercial,18,8,2019,0.5,18.0
+1663,Unknown/Foreign Location,Foreign Country,Unknown,Boeing,757,2.0,Unknown,Unknown,0.0,0.0,0.0,194.0,Unknown,194.0,0.0,0.0,100.0,0.0,Commercial,9,2,2020,0.5,18.0
+1667,NV,United States,Substantial,Boeing,757,2.0,Unknown,Unknown,0.0,0.0,0.0,127.0,Visual Meteorological Conditions,127.0,0.0,0.0,100.0,0.0,Commercial,21,3,2020,0.5,18.0
+368,FL,United States,Unknown,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,93.0,Visual Meteorological Conditions,93.0,0.0,0.0,100.0,0.0,Commercial,1,8,1988,0.68,25.0
+498,GA,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,1.0,4.0,97.0,Visual Meteorological Conditions,102.0,5.0,4.901960784313727,95.09803921568628,0.0,Commercial,5,5,1991,0.68,25.0
+553,TX,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,133.0,Visual Meteorological Conditions,133.0,0.0,0.0,100.0,0.0,Commercial,14,8,1992,0.68,25.0
+591,SC,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,105.0,Visual Meteorological Conditions,105.0,0.0,0.0,100.0,0.0,Commercial,27,7,1993,0.68,25.0
+595,KY,United States,Unknown,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,105.0,Visual Meteorological Conditions,106.0,1.0,0.9433962264150944,99.05660377358492,0.0,Commercial,3,9,1993,0.68,25.0
+644,LA,United States,Unknown,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,69.0,Instrumental Meteorological Conditions,70.0,1.0,1.4285714285714286,98.57142857142858,0.0,Commercial,6,1,1995,0.68,25.0
+706,CO,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,1.0,119.0,Visual Meteorological Conditions,120.0,1.0,0.8333333333333334,99.16666666666669,0.0,Commercial,4,2,1996,0.68,25.0
+735,FL,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Jet,Unknown,2.0,2.0,3.0,137.0,Visual Meteorological Conditions,144.0,7.0,4.8611111111111125,95.13888888888887,1.3888888888888888,Commercial,6,7,1996,0.68,25.0
+746,NY,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,3.0,60.0,Instrumental Meteorological Conditions,63.0,3.0,4.761904761904762,95.23809523809523,0.0,Commercial,19,10,1996,0.68,25.0
+749,OH,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,118.0,Instrumental Meteorological Conditions,118.0,0.0,0.0,100.0,0.0,Commercial,11,11,1996,0.68,25.0
+784,NY,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Jet,Unknown,0.0,1.0,2.0,111.0,Visual Meteorological Conditions,114.0,3.0,2.631578947368421,97.36842105263158,0.0,Commercial,13,5,1997,0.68,25.0
+843,KY,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,121.0,Visual Meteorological Conditions,121.0,0.0,0.0,100.0,0.0,Commercial,11,10,1998,0.68,25.0
+845,KY,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,112.0,Instrumental Meteorological Conditions,113.0,1.0,0.8849557522123894,99.1150442477876,0.0,Commercial,3,11,1998,0.68,25.0
+853,TX,United States,Unknown,Mcdonnel Douglas,Md-88,2.0,Turbo Jet,Unknown,0.0,1.0,0.0,49.0,Visual Meteorological Conditions,50.0,1.0,2.0,98.0,0.0,Commercial,26,12,1998,0.68,25.0
+884,KY,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,118.0,Visual Meteorological Conditions,118.0,0.0,0.0,100.0,0.0,Commercial,17,9,1999,0.68,25.0
+906,MA,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,202.0,Visual Meteorological Conditions,202.0,0.0,0.0,100.0,0.0,Commercial,24,3,2000,0.68,25.0
+957,AZ,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,101.0,Visual Meteorological Conditions,101.0,0.0,0.0,100.0,0.0,Commercial,15,3,2001,0.68,25.0
+1015,TX,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,63.0,Visual Meteorological Conditions,63.0,0.0,0.0,100.0,0.0,Commercial,2,7,2002,0.68,25.0
+1042,CO,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,1.0,60.0,Visual Meteorological Conditions,61.0,1.0,1.639344262295082,98.36065573770493,0.0,Commercial,22,4,2003,0.68,25.0
+1104,CO,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,98.0,Visual Meteorological Conditions,98.0,0.0,0.0,100.0,0.0,Commercial,13,5,2005,0.68,25.0
+1222,TX,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,148.0,Visual Meteorological Conditions,148.0,0.0,0.0,100.0,0.0,Commercial,18,2,2008,0.68,25.0
+1329,GA,United States,Minor,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,111.0,Unknown,111.0,0.0,0.0,100.0,0.0,Commercial,18,7,2010,0.68,25.0
+1403,GA,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,81.0,Visual Meteorological Conditions,81.0,0.0,0.0,100.0,0.0,Commercial,7,10,2011,0.68,25.0
+1444,GA,United States,Unknown,Boeing,Md-88,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,147.0,Unknown,147.0,0.0,0.0,100.0,0.0,Commercial,7,11,2012,0.68,25.0
+1463,TN,United States,Substantial,Mcdonnel Douglas,Md-88,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,156.0,Visual Meteorological Conditions,156.0,0.0,0.0,100.0,0.0,Commercial,13,6,2013,0.68,25.0
+437,FL,United States,Minor,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,106.0,Visual Meteorological Conditions,106.0,0.0,0.0,100.0,0.0,Commercial,13,9,1989,0.4090909090909091,22.0
+505,GA,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,124.0,Instrumental Meteorological Conditions,125.0,1.0,0.8,99.2,0.0,Commercial,4,7,1991,0.4090909090909091,22.0
+560,GA,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,187.0,Visual Meteorological Conditions,188.0,1.0,0.5319148936170213,99.46808510638296,0.0,Commercial,13,11,1992,0.4090909090909091,22.0
+570,FL,United States,Substantial,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,191.0,Instrumental Meteorological Conditions,191.0,0.0,0.0,100.0,0.0,Commercial,23,2,1993,0.4090909090909091,22.0
+579,FL,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,61.0,Instrumental Meteorological Conditions,62.0,1.0,1.6129032258064515,98.38709677419355,0.0,Commercial,26,4,1993,0.4090909090909091,22.0
+599,GA,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,187.0,Visual Meteorological Conditions,188.0,1.0,0.5319148936170213,99.46808510638296,0.0,Commercial,15,9,1993,0.4090909090909091,22.0
+602,FL,United States,Minor,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,95.0,Visual Meteorological Conditions,95.0,0.0,0.0,100.0,0.0,Commercial,4,10,1993,0.4090909090909091,22.0
+712,AK,United States,Minor,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,91.0,Visual Meteorological Conditions,91.0,0.0,0.0,100.0,0.0,Commercial,20,2,1996,0.4090909090909091,22.0
+762,GA,United States,Minor,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,168.0,Visual Meteorological Conditions,168.0,0.0,0.0,100.0,0.0,Commercial,31,1,1997,0.4090909090909091,22.0
+818,FL,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,188.0,Visual Meteorological Conditions,189.0,1.0,0.5291005291005291,99.47089947089948,0.0,Commercial,6,1,1998,0.4090909090909091,22.0
+868,AZ,United States,Substantial,Boeing,757-232,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,127.0,Visual Meteorological Conditions,127.0,0.0,0.0,100.0,0.0,Commercial,2,6,1999,0.4090909090909091,22.0
+900,Unknown/Foreign Location,Foreign Country,Substantial,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,161.0,Visual Meteorological Conditions,161.0,0.0,0.0,100.0,0.0,Commercial,12,2,2000,0.4090909090909091,22.0
+969,CA,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,1.0,1.0,98.0,Visual Meteorological Conditions,100.0,2.0,2.0,98.0,0.0,Commercial,11,7,2001,0.4090909090909091,22.0
+1011,IL,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,1.0,1.0,113.0,Instrumental Meteorological Conditions,115.0,2.0,1.7391304347826086,98.2608695652174,0.0,Commercial,2,6,2002,0.4090909090909091,22.0
+1040,UT,United States,Minor,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,123.0,Visual Meteorological Conditions,123.0,0.0,0.0,100.0,0.0,Commercial,17,4,2003,0.4090909090909091,22.0
+1052,FL,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,3.0,27.0,144.0,Visual Meteorological Conditions,174.0,30.0,17.24137931034483,82.75862068965517,0.0,Commercial,23,6,2003,0.4090909090909091,22.0
+1098,MA,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,1.0,3.0,188.0,Visual Meteorological Conditions,192.0,4.0,2.083333333333333,97.91666666666666,0.0,Commercial,6,3,2005,0.4090909090909091,22.0
+1141,MA,United States,Substantial,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,146.0,Visual Meteorological Conditions,146.0,0.0,0.0,100.0,0.0,Commercial,25,2,2006,0.4090909090909091,22.0
+1363,WA,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,1.0,1.0,188.0,Visual Meteorological Conditions,190.0,2.0,1.0526315789473684,98.94736842105264,0.0,Commercial,28,2,2011,0.4090909090909091,22.0
+1364,GA,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,130.0,Visual Meteorological Conditions,130.0,0.0,0.0,100.0,0.0,Commercial,11,3,2011,0.4090909090909091,22.0
+1387,GA,United States,Unknown,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,3.0,0.0,175.0,Visual Meteorological Conditions,178.0,3.0,1.6853932584269662,98.31460674157304,0.0,Commercial,21,6,2011,0.4090909090909091,22.0
+1456,GA,United States,Substantial,Boeing,757-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,148.0,Visual Meteorological Conditions,148.0,0.0,0.0,100.0,0.0,Commercial,8,3,2013,0.4090909090909091,22.0
+454,NY,United States,Substantial,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,176.0,Visual Meteorological Conditions,176.0,0.0,0.0,100.0,0.0,Commercial,16,1,1990,0.5882352941176471,17.0
+539,CO,United States,Unknown,Boeing,757-222,2.0,Turbo Fan,Unknown,1.0,0.0,0.0,61.0,Visual Meteorological Conditions,62.0,1.0,1.6129032258064515,98.38709677419355,1.6129032258064515,Commercial,4,5,1992,0.5882352941176471,17.0
+584,CA,United States,Minor,Boeing,757-222,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,197.0,Visual Meteorological Conditions,197.0,0.0,0.0,100.0,0.0,Commercial,8,6,1993,0.5882352941176471,17.0
+586,WI,United States,Unknown,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,147.0,Instrumental Meteorological Conditions,148.0,1.0,0.6756756756756757,99.32432432432432,0.0,Commercial,24,6,1993,0.5882352941176471,17.0
+592,CO,United States,Substantial,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,164.0,Visual Meteorological Conditions,164.0,0.0,0.0,100.0,0.0,Commercial,2,8,1993,0.5882352941176471,17.0
+713,AK,United States,Substantial,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,91.0,Visual Meteorological Conditions,91.0,0.0,0.0,100.0,0.0,Commercial,20,2,1996,0.5882352941176471,17.0
+813,WA,United States,Minor,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,196.0,Visual Meteorological Conditions,196.0,0.0,0.0,100.0,0.0,Commercial,16,10,1997,0.5882352941176471,17.0
+889,IL,United States,Unknown,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,68.0,Visual Meteorological Conditions,68.0,0.0,0.0,100.0,0.0,Commercial,28,10,1999,0.5882352941176471,17.0
+1030,UT,United States,Minor,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,140.0,Visual Meteorological Conditions,140.0,0.0,0.0,100.0,0.0,Commercial,11,1,2003,0.5882352941176471,17.0
+1041,GA,United States,Unknown,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,1.0,1.0,184.0,Instrumental Meteorological Conditions,186.0,2.0,1.0752688172043012,98.9247311827957,0.0,Commercial,21,4,2003,0.5882352941176471,17.0
+1142,NE,United States,Unknown,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,97.0,Visual Meteorological Conditions,98.0,1.0,1.020408163265306,98.9795918367347,0.0,Commercial,15,3,2006,0.5882352941176471,17.0
+1150,OR,United States,Unknown,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,189.0,Visual Meteorological Conditions,189.0,0.0,0.0,100.0,0.0,Commercial,17,5,2006,0.5882352941176471,17.0
+1278,CO,United States,Minor,Boeing,757-222,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,192.0,Unknown,192.0,0.0,0.0,100.0,0.0,Commercial,10,6,2009,0.5882352941176471,17.0
+1382,CA,United States,Minor,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,190.0,Visual Meteorological Conditions,190.0,0.0,0.0,100.0,0.0,Commercial,31,5,2011,0.5882352941176471,17.0
+1385,CA,United States,Substantial,Boeing,757-222,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,190.0,Visual Meteorological Conditions,190.0,0.0,0.0,100.0,0.0,Commercial,12,6,2011,0.5882352941176471,17.0
+1401,CO,United States,Minor,Boeing,757-222,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,185.0,Unknown,185.0,0.0,0.0,100.0,0.0,Commercial,26,9,2011,0.5882352941176471,17.0
+1409,CA,United States,Unknown,Boeing,757-222,2.0,Turbo Jet,Unknown,0.0,0.0,1.0,151.0,Visual Meteorological Conditions,152.0,1.0,0.6578947368421052,99.3421052631579,0.0,Commercial,1,12,2011,0.5882352941176471,17.0
 514,MA,United States,Minor,Mcdonnel Douglas,Md-82,2.0,Turbo Fan,Unknown,0.0,2.0,0.0,126.0,Visual Meteorological Conditions,128.0,2.0,1.5625,98.4375,0.0,Commercial,28,9,1991,0.3,20.0
 616,NY,United States,Substantial,Mcdonnel Douglas,Md-82,2.0,Turbo Jet,Unknown,0.0,0.0,30.0,86.0,Instrumental Meteorological Conditions,116.0,30.0,25.86206896551724,74.13793103448276,0.0,Commercial,2,3,1994,0.3,20.0
 632,NV,United States,Unknown,Mcdonnel Douglas,Md-82,2.0,Turbo Fan,Unknown,0.0,0.0,6.0,113.0,Visual Meteorological Conditions,119.0,6.0,5.042016806722689,94.9579831932773,0.0,Commercial,19,8,1994,0.3,20.0
@@ -314,3 +481,36 @@
 1651,VA,United States,Unknown,Airbus,A320,2.0,Unknown,Unknown,0.0,0.0,1.0,154.0,Visual Meteorological Conditions,155.0,1.0,0.6451612903225806,99.35483870967742,0.0,Commercial,8,8,2019,0.4375,16.0
 1661,LA,United States,Unknown,Airbus,A320,2.0,Turbo Fan,Unknown,0.0,0.0,1.0,158.0,Unknown,159.0,1.0,0.628930817610063,99.37106918238993,0.0,Commercial,10,1,2020,0.4375,16.0
 1697,OF,Foreign Country,Unknown,Airbus,A320,2.0,Unknown,Unknown,0.0,0.0,0.0,132.0,Unknown,132.0,0.0,0.0,100.0,0.0,Commercial,8,4,2022,0.4375,16.0
+833,AL,United States,Minor,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,96.0,Visual Meteorological Conditions,96.0,0.0,0.0,100.0,0.0,Commercial,7,7,1998,0.4117647058823529,17.0
+1081,KS,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,135.0,Visual Meteorological Conditions,136.0,1.0,0.7352941176470588,99.26470588235294,0.0,Commercial,4,6,2004,0.4117647058823529,17.0
+1088,CA,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,142.0,Visual Meteorological Conditions,142.0,0.0,0.0,100.0,0.0,Commercial,19,8,2004,0.4117647058823529,17.0
+1115,IL,United States,Substantial,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,110.0,Visual Meteorological Conditions,110.0,0.0,0.0,100.0,0.0,Commercial,8,7,2005,0.4117647058823529,17.0
+1129,AZ,United States,Minor,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,137.0,Visual Meteorological Conditions,137.0,0.0,0.0,100.0,0.0,Commercial,12,10,2005,0.4117647058823529,17.0
+1180,CA,United States,Minor,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,208.0,Visual Meteorological Conditions,208.0,0.0,0.0,100.0,0.0,Commercial,26,12,2006,0.4117647058823529,17.0
+1306,CA,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,1.0,1.0,83.0,Visual Meteorological Conditions,85.0,2.0,2.3529411764705883,97.64705882352942,0.0,Commercial,13,2,2010,0.4117647058823529,17.0
+1319,TX,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,140.0,Visual Meteorological Conditions,140.0,0.0,0.0,100.0,0.0,Commercial,28,4,2010,0.4117647058823529,17.0
+1337,CA,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,133.0,Visual Meteorological Conditions,133.0,0.0,0.0,100.0,0.0,Commercial,4,9,2010,0.4117647058823529,17.0
+1351,PA,United States,Substantial,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,222.0,Visual Meteorological Conditions,222.0,0.0,0.0,100.0,0.0,Commercial,18,12,2010,0.4117647058823529,17.0
+1366,FL,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,145.0,Visual Meteorological Conditions,145.0,0.0,0.0,100.0,0.0,Commercial,27,3,2011,0.4117647058823529,17.0
+1410,IL,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,85.0,Visual Meteorological Conditions,85.0,0.0,0.0,100.0,0.0,Commercial,1,12,2011,0.4117647058823529,17.0
+1411,CA,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,2.0,1.0,97.0,Visual Meteorological Conditions,100.0,3.0,3.0,97.0,0.0,Commercial,2,12,2011,0.4117647058823529,17.0
+1414,CO,United States,Minor,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,133.0,Instrumental Meteorological Conditions,133.0,0.0,0.0,100.0,0.0,Commercial,22,12,2011,0.4117647058823529,17.0
+1419,NE,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,1.0,1.0,138.0,Visual Meteorological Conditions,140.0,2.0,1.4285714285714286,98.57142857142858,0.0,Commercial,23,2,2012,0.4117647058823529,17.0
+1423,OK,United States,Unknown,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,1.0,141.0,Visual Meteorological Conditions,142.0,1.0,0.7042253521126761,99.2957746478873,0.0,Commercial,20,3,2012,0.4117647058823529,17.0
+1462,AZ,United States,Minor,Boeing,737-7H4,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,59.0,Visual Meteorological Conditions,59.0,0.0,0.0,100.0,0.0,Commercial,10,5,2013,0.4117647058823529,17.0
+914,NV,United States,Substantial,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,152.0,Visual Meteorological Conditions,152.0,0.0,0.0,100.0,0.0,Commercial,12,6,2000,0.375,16.0
+952,NY,United States,Unknown,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,145.0,Instrumental Meteorological Conditions,145.0,0.0,0.0,100.0,0.0,Commercial,21,1,2001,0.375,16.0
+963,NV,United States,Unknown,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,1.0,4.0,121.0,Visual Meteorological Conditions,126.0,5.0,3.9682539682539684,96.03174603174604,0.0,Commercial,19,4,2001,0.375,16.0
+968,CA,United States,Unknown,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,141.0,Visual Meteorological Conditions,142.0,1.0,0.7042253521126761,99.2957746478873,0.0,Commercial,15,6,2001,0.375,16.0
+977,CA,United States,Unknown,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,1.0,0.0,139.0,Visual Meteorological Conditions,140.0,1.0,0.7142857142857143,99.28571428571428,0.0,Commercial,20,8,2001,0.375,16.0
+1073,CO,United States,Minor,Airbus,A320-232,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,209.0,Visual Meteorological Conditions,209.0,0.0,0.0,100.0,0.0,Commercial,5,3,2004,0.375,16.0
+1074,CO,United States,Minor,Airbus,A320-232,2.0,Turbo Jet,Unknown,0.0,0.0,0.0,209.0,Visual Meteorological Conditions,209.0,0.0,0.0,100.0,0.0,Commercial,5,3,2004,0.375,16.0
+1117,CO,United States,Minor,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,324.0,Visual Meteorological Conditions,324.0,0.0,0.0,100.0,0.0,Commercial,3,8,2005,0.375,16.0
+1118,CO,United States,Minor,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,0.0,0.0,324.0,Visual Meteorological Conditions,324.0,0.0,0.0,100.0,0.0,Commercial,3,8,2005,0.375,16.0
+1208,IL,United States,Minor,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,0.0,2.0,125.0,Visual Meteorological Conditions,127.0,2.0,1.574803149606299,98.42519685039369,0.0,Commercial,9,10,2007,0.375,16.0
+1283,FL,United States,Unknown,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,2.0,2.0,149.0,Visual Meteorological Conditions,153.0,4.0,2.6143790849673203,97.38562091503269,0.0,Commercial,10,7,2009,0.375,16.0
+1336,CA,United States,Minor,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,7.0,0.0,84.0,Visual Meteorological Conditions,91.0,7.0,7.6923076923076925,92.30769230769229,0.0,Commercial,26,8,2010,0.375,16.0
+1359,VT,United States,Unknown,Airbus,A320-232,2.0,Turbo Fan,Unknown,0.0,1.0,1.0,117.0,Visual Meteorological Conditions,119.0,2.0,1.680672268907563,98.31932773109243,0.0,Commercial,19,2,2011,0.375,16.0
+1670,TX,United States,Unknown,Airbus,A320-232,2.0,Unknown,Unknown,0.0,0.0,1.0,139.0,Unknown,140.0,1.0,0.7142857142857143,99.28571428571428,0.0,Commercial,23,12,2020,0.375,16.0
+1692,CO,United States,Substantial,Airbus,A320-232,2.0,Unknown,Unknown,0.0,0.0,0.0,108.0,Unknown,108.0,0.0,0.0,100.0,0.0,Commercial,22,1,2022,0.375,16.0
+1699,MO,United States,Unknown,Airbus,A320-232,2.0,Unknown,Unknown,0.0,0.0,1.0,151.0,Unknown,152.0,1.0,0.6578947368421052,99.3421052631579,0.0,Commercial,25,5,2022,0.375,16.0
