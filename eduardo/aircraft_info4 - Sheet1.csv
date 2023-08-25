@@ -7,4 +7,4 @@ md11,Boeing,airplane,285 to 410 passengers,>200,wide-body commercial jet airline
 185,Cessna,airplane,six seat,<10,general aviation aircraft,one engine,1,1,0,1,0,0,1,0,0,0,0,0,0,0
 pa20,Piper,airplane,four seat,<10,general aviation aircraft,one engine,1,0,0,1,0,1,0,0,0,0,0,0,0,1
 pa44,Piper,airplane,four seat,<10,flight training aircraft,two engines,2,0,0,1,0,0,0,0,1,0,0,0,0,1
-180,Piper,airplane,two seat,<10,general aviation aircraft,one engine,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+J5,Piper,airplane,two seat,<10,general aviation aircraft,one engine,1,1,0,0,0,1,0,0,1,0,0,0,0,0
