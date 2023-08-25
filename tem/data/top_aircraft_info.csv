@@ -1,0 +1,10 @@
+Make,Model,Make.Model,Type,Passenger.Capacity,Cap. Range,Purpose,Engine Cat.,Engine.Num,Utility,Surveillance,Touring,Airshows/Aerobatics,Recreational Flying,Crop Dusting,Freight,Flight Training,Commercial Airline Service,Private Charter,Corporate Use,Medical Evaluation,Private Use
+Boeing,369e,Boeing-369e,helicopter,5,<10,light multi-purpose helicopter,one engine,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Boeing,m75,Boeing-Model75,biplane,2,<10,vintage military biplane trainer,one engine,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+Boeing,md11,Boeing-MD11,airplane,410,>200,wide-body commercial jet airliner,three engines,3,0,0,0,0,0,0,1,0,1,1,0,0,0
+Cessna,560,Cessna-560,airplane,11,>10,small business jet,two engines,2,0,0,0,0,0,0,0,0,0,1,1,1,0
+Cessna,195,Cessna-195,airplane,5,<10,light general aviation airplane,one engine,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+Cessna,185,Cessna-185,airplane,6,<10,light general aviation airplane,one engine,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+Piper,pa20,Piper-20,airplane,4,<10,light general aviation airplane,one engine,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+Piper,pa44,Piper-44,airplane,4,<10,flight training airplane,two engines,2,0,0,1,0,0,0,0,1,0,0,0,0,1
+Piper,j5,Piper-j5,airplane,2,<10,light general aviation airplane,one engine,1,0,0,1,0,1,0,0,0,0,0,0,0,1
