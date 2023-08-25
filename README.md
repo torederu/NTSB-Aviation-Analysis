@@ -1,5 +1,8 @@
 ﻿## An Exploratory Data Analysis of Aircraft Incidents
 
+<div style="text-align: center;">
+<img src="imgs/dashboard.png" width="700"/>
+</div>
 
 ## The Business Problem
 
@@ -142,9 +145,11 @@ Therefore, we recommend flying during visual meteorological conditions to avoid 
   
 * To assess financial viability, it would additionally to conduct a profit/loss analysis of the selected business model. 
 
-├── imgs
-├── .gitignore
+.
+├── imgs                   
+├── .gitignore              
 ├── EDA-Aviation-Incidents.pdf
 ├── EDA-Aviation-Incidents.ipynb
 └── README.md
+
 
