@@ -29,8 +29,8 @@ This project involved cleaning the datasets to discover valuable insights into w
 
 Afterwards, we created two different algorithms to determine which make performs better overall. A “Damage Index” assigns a score to each incident and its intensity, adjusted by the amount of incidents overall per each make. Second, a set of established filters will evaluate the performance of the plane in each incident, based on the aforementioned survival and injury rates.
 
-
 Our company is specifically interested in airplanes and helicopters. Below, we examine the values present in the Aircraft Category column to ensure our dataset is comprised of incidents from airplanes and helicopters.
+
 When we exclude NaN values, we see that 85% of the dataset are airplanes and 10% are helicopters. This is a favorable result, as we are only interested in assessing incidents from airplanes and helicopters.
 
 The dataset includes several other aircraft types (gliders, balloons, etc), which we will remove from our dataframe to exclude from our analysis.
