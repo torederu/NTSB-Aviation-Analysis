@@ -162,9 +162,9 @@ Therefore, we recommend flying during visual meteorological conditions to avoid 
   
 * Future analyses can also explore whether the number of engines, phase of the flight and location of the flight influences the flight's safety.
   
-* To assess financial viability, it would additionally to conduct a profit/loss analysis of the selected business model. 
+* To assess financial viability, it would additionally be beneficial to conduct a profit/loss analysis of the selected business model. 
 
-
+## Repository Structure
 ├── imgs                   
 
 ├── .gitignore              
