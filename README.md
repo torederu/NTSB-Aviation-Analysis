@@ -33,11 +33,11 @@ Our company is specifically interested in airplanes and helicopters. Below, we e
 
 When we exclude NaN values, we see that 85% of the dataset are airplanes and 10% are helicopters. This is a favorable result, as we are only interested in assessing incidents from airplanes and helicopters.
 
-The dataset includes several other aircraft types (gliders, balloons, etc), which we will remove from our dataframe to exclude from our analysis.
+The dataset includes several other aircraft types (gliders, balloons, etc), which we will remove to exclude from our analysis.
 
-There are also over 56k aircrafts with an unmarked aircraft category type. Since 90% of the known dataset comes from airplanes and helicopters, we predict that the vast majority of unknown aircraft types will also be from airplanes and helicopters.
+There are also over 56k aircrafts with an unmarked aircraft category type. Since 90% of the known dataset comes from airplanes and helicopters, we expect that the vast majority of unknown aircraft types will also be from airplanes and helicopters.
 
-We will use engine number and engine type to determine which aircrafts are likely airplanes or helicopters and which aircrafts are unlikely to be airplanes or helicopters and should be excluded from our analyses.
+We will use engine numbers and engine type to determine which aircrafts are likely airplanes or helicopters and which aircrafts are unlikely to be airplanes or helicopters and should be excluded from our analyses.
 
 ## Generate key metrics
 The dataset includes information on the total number of people with fatal injuries, serious injuries, minor injuries, and uninjured. As a count, this information is difficult to interpret and compare amongst aircrafts, which will inevitably have varying numbers of total passengers. To address this, we calculate the percentage of passengers who died, were injured, and were uninjured for each incident.
@@ -82,7 +82,7 @@ Next, we identify the three models with the best performance score for each of t
 ## Results
 Based on the methods explained above, we were able to filter the top performers of all the makes listed using the Damage Index:
 
-Per the Damage Index, the top makes are: Boeing, Cessna and Piper. These are the companies and brands that are the least likely to be involved in an incident in which the aircraft is destroyed or suffers substantial damage. However, this doesn’t mean that they are the safest overall should an incident occur. For this reason, we defer to the second algorithm, the performance model. 
+Per the Damage Index, the top makes are: Boeing, Cessna and Piper. These are the companies and brands that are the least likely to be involved in an incident in which the aircraft is destroyed or suffers substantial damage. However, this doesn’t mean that they are the safest overall in the event of an incident. For this reason, we defer to the second algorithm, the performance model. 
 
 Using the performance model, we can conclude that out of the three top makes we identified, the top performing models are:
 
