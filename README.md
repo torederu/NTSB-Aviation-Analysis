@@ -18,36 +18,24 @@ As we expand our business into new industries to diversify our portfolio, we enc
 
 Our company stands firm on a foundational principle: the most effective way to profit is by preserving our capital. Therefore, by minimizing the risks associated with the aircraft industry, we can rest assured that this new wing of our portfolio will meet the expectations of the investment.
 
-Our primary objective is to determine which aircraft Makes and Models are the safest. We define a "safe" aircraft in two ways. First, one that was not involved in many incidents resulting in severe damage to the plane or helicopter. Second, an aircraft that has positive outcomes for passengers even when it is involved in unfortunate incidents. 
+Our primary objective is to determine which aircraft makes and models are the safest. We define a "safe" aircraft in two ways. First, one that was not involved in many incidents resulting in severe damage to the plane or helicopter. Second, an aircraft that has positive outcomes for passengers even when it is involved in unfortunate incidents. 
 
 Once we have identified the safest aircrafts, we will explore their best use cases: what they were designed for and what they specialize in. With that information at hand, we can establish a clear business plan within our parameters.
 
 Lastly, we will explore whether there are certain times or certain weather conditions that are safest for flying. Minimizing risk might imply creating a seasonal business. If that’s the case, when should we fly?
 
-Here, we conduct three sets of analyses using [data](https://www.ntsb.gov/Pages/AviationQueryV2.aspx) collected by the [National Transportation Safety Board (NTSB)](https://www.usa.gov/agencies/national-transportation-safety-board). The dataset includes information about aircraft accidents from 1962 to 2023 in the United States and international waters.
-
-
 ## The Dataset
-The data used for this research is from a dataset from the National Transportation Safety Board. This dataset includes aviation accident data from 1962 to 2023 about selected incidents in the United States and across international waters.
-The dataset comes in the CSV format, and has 90348 Rows and 31 columns, only one of which showed no null values, with 609971 cells being NaNs in total, which is around 21% of the total dataset.
-  
+The [data](https://www.ntsb.gov/Pages/AviationQueryV2.aspx) used for this research was collected by the [National Transportation Safety Board (NTSB)](https://www.usa.gov/agencies/national-transportation-safety-board). It includes information on aircraft incidents from 1962 to 2023 within the United States and across international waters.  
   
 ## Methods
-This project involved cleaning the datasets to discover valuable insights into which aircraft models are the safest. We started by standardizing the names of makes and models, then filling or dropping nulls based on the need of that specific cell. We were then able to establish survival and injury rates for each incident.
+We prepared our dataset for analysis by filtering for the datapoints pertaining to airplanes and helicopters, standardizing aircraft names to ensure consistency, and addressing missing data points. Depending on the significance of the missing data, we either approximated them or excluded the affected records from our analysis.
 
-Afterwards, we created two different algorithms to determine which make performs better overall. A “Damage Index” assigns a score to each incident and its intensity, adjusted by the amount of incidents overall per each make. Second, a set of established filters will evaluate the performance of the plane in each incident, based on the aforementioned survival and injury rates.
+Our primary objective was to evaluate aircraft safety, both in terms of structural integrity and passenger protection. To do this, we created two different measures to determine which make and model of aircraft performs best. First, a **damage index** assigns a score to each incident and its intensity, adjusted by the amount of incidents overall per each make. Second, a **performance metric** applies a set of established filters to evaluate the performance of the model in each incident, based on the its survival and injury rates.
 
-Our company is specifically interested in airplanes and helicopters. Below, we examine the values present in the Aircraft Category column to ensure our dataset is comprised of incidents from airplanes and helicopters.
+Our methods are designed to yield a list of top-performing aircraft makes and models, along with flight best practices that consider extrinsic factors such as weather, setting the stage for comprehensive business recommendations.
 
-When we exclude NaN values, we see that 85% of the dataset are airplanes and 10% are helicopters. This is a favorable result, as we are only interested in assessing incidents from airplanes and helicopters.
 
-The dataset includes several other aircraft types (gliders, balloons, etc), which we will remove to exclude from our analysis.
-
-There are also over 56k aircrafts with an unmarked aircraft category type. Since 90% of the known dataset comes from airplanes and helicopters, we expect that the vast majority of unknown aircraft types will also be from airplanes and helicopters.
-
-We will use engine numbers and engine type to determine which aircrafts are likely airplanes or helicopters and which aircrafts are unlikely to be airplanes or helicopters and should be excluded from our analyses.
-
-## Damage Index
+#### Damage Index:
 Each row in the dataset contains information about an aircraft accident. In this section, we calculate a damage index to quantify how destructive the accidents were for a particular make of aircraft. The damage index considers the ratio of planes of a particular make that were destroyed in the incident, compared to the ratio of planes that with substantial damage and minor damage. 
 
 We assume an exponential relationship between levels of aircraft damage, such that incidents with substantial damage are twice as bad as those with minor damage, but incidents with destroyed planes are four times as bad as those with minor damage. 
@@ -62,7 +50,7 @@ To validate that the damage index captures meaningful information, we will plot 
 
 As expected, the above plots show a positive correlation between damage index and percent of passengers injured, a negative correlation between damage index and percent of passengers uninjured, and a positive correlation between damage index and percent of passengers who died. This indicates that the damage index is a useful measure when determining an aircraft's risks and safety.
 
-## Model Performance
+#### Model Performance: 
 Each of our top three makes have low damage indices, however, the question still remains: when an aircraft is involved in an incident that results in damage, do the passengers leave the incident uninjured?
 
 Now that we have identified the top three makes, we will further narrow down our list of aircrafts by selecting the models that have the highest performance, as defined by the ratio of incidents where passengers had positive outcomes. 
